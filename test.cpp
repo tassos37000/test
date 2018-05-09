@@ -1,7 +1,6 @@
 #include <iostream>
-
-in main()
+using namespace std;
+int main()
 {
-  std::cout << "Hello World!";
-  std::cout << "2";
+	cout << "Hello";
 }
